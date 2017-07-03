@@ -9,5 +9,5 @@ Setup:
 + Instructions can be found in the code itself
 + After you have finished making final edits, run `git add .`
 + Run `git commit -m "<your message>"`
-+ Run `git push <remote_name> <branch_name>
++ Run `git push <remote_name> <branch_name>`
 
