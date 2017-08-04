@@ -5,9 +5,9 @@ Play Hangman by yourself or play against a user
 
 Setup:
 
-+ Run `git clone https://github.com/aksharma2/hangman.git` to clone to your local machine
-+ Instructions can be found in the code itself
-+ After you have finished making final edits, run `git add .`
-+ Run `git commit -m "<your message>"`
-+ Run `git push <remote_name> <branch_name>`
-
++ Fork this github repository https://github.com/hackpacific/java-hangman to your own account
++ Clone your forked repository to your local machine
++ Work on the project, instructions can be found in the code
++ Commit when you make substantial progress
++ When you have finished, push your local changes to your github repository
++ Send me your repository link in the corresponding assignment in Repl.it
